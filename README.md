@@ -1,6 +1,5 @@
 - 👋 Olá, eu sou João Victor Machado
 - 📖 Estudo Ciência da Computação na UFMA
-- 👀 Tenho interesse em backend
 - 📩 Contato: jva.machado@discente.ufma.br
 
 <!---
